@@ -11,4 +11,4 @@ Cross-Platform Compatibility: Works on Windows, macOS, and Linux, thanks to Pyth
 Technologies Used
 Python: Main programming language
 Tkinter: Provides the GUI for ease of use
-PyAutoGUI: Captures screenshots and saves them in the selected location
+PyAutoGUI: Captures screenshots and saves them in the selected location.
